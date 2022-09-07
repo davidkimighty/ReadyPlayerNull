@@ -1,0 +1,25 @@
+{
+    "name": "com.colliemollie.randomvrgamedevlibrary",
+    "version": "0.1.0",
+    "displayName": "Random VR GameDev Library",
+    "description": "Bunch of random VR game features.",
+    "unity": "2021.3",
+    "dependencies": {
+
+    },
+    "samples": [
+        {
+            "displayName": "VR Player",
+            "description": "Physics based VR Player",
+            "path": "Samples~/Player"
+        }
+    ],
+    "keywords": [
+        "VR Player"
+    ],
+    "author": {
+        "name": "Hyunwoo Kim",
+        "email": "davidkimighty@gmail.com",
+        "url": "https://colliecollie.netlify.app"
+    }
+}
