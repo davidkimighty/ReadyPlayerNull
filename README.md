@@ -1,2 +1,2 @@
-# CollieVR
-VR related features.
+# Random VR GameDev Library
+Random VR game related features.
