@@ -1,8 +1,8 @@
 {
-    "name": "com.colliemollie.randomvrgamedevlibrary",
-    "version": "0.1.0",
-    "displayName": "Random VR GameDev Library",
-    "description": "Bunch of random VR game features.",
+    "name": "com.colliemollie.broccolliexr",
+    "version": "0.1.1",
+    "displayName": "Broccollie XR",
+    "description": "Essential game ready XR features.",
     "unity": "2021.3",
     "dependencies": {
 
