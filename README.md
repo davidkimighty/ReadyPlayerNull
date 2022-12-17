@@ -42,19 +42,19 @@
 <td><a href="https://github.com/hyunwookimbob/">VR Player</a></td>
 <td><kbd>In Progress</kbd></td>
 <td><a href="https://github.com/users/hyunwookimbob/">VR Player Board</a></td>
-<td><a href="https://github.com/hyunwookimbob/">VR Player v0.1 Milestone</a></td>
+<td><a href="https://github.com/hyunwookimbob/">VR Player v1.0 Milestone</a></td>
 </tr>
 
 <tr>
 <td><a href="wiki/">VR Interactable</a></td>
 <td><kbd>In Progress</kbd></td>
 <td><a href="https://github.com/users/hyunwookimbob/">VR Interactable Board</a></td>
-<td><a href="https://github.com/hyunwookimbob/">VR Interactable v0.1 Milestone</a></td>
+<td><a href="https://github.com/hyunwookimbob/">VR Interactable v1.0 Milestone</a></td>
 </tr>
 
 </table>
 
 ## Changelog
-- [v0.1 GitHub Milestones](https://github.com/hyunwookimbob/)
+- [v1.0 GitHub Milestones](https://github.com/hyunwookimbob/Broccollie-XR/milestone/1?closed=1)
 
 <br />
