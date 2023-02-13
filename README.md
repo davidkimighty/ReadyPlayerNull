@@ -35,21 +35,18 @@
 <th>Features</th>
 <th>Status</th>
 <th>GitHub Project Board</th>
-<th>Latest GitHub Milestone</th>
 </tr>
 
 <tr>
 <td><a href="https://github.com/hyunwookimbob/">VR Player</a></td>
 <td><kbd>In Progress</kbd></td>
 <td><a href="https://github.com/users/hyunwookimbob/">VR Player Board</a></td>
-<td><a href="https://github.com/hyunwookimbob/">VR Player v1.0 Milestone</a></td>
 </tr>
 
 <tr>
 <td><a href="wiki/">VR Interactable</a></td>
 <td><kbd>In Progress</kbd></td>
 <td><a href="https://github.com/users/hyunwookimbob/">VR Interactable Board</a></td>
-<td><a href="https://github.com/hyunwookimbob/">VR Interactable v1.0 Milestone</a></td>
 </tr>
 
 </table>
