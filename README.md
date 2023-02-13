@@ -52,7 +52,6 @@
 </table>
 
 ## Changelog
-- [v1.0 GitHub Milestones](https://github.com/hyunwookimbob/Broccollie-XR/milestone/1?closed=1)
-- [pre-release GitHub Milestones](https://github.com/hyunwookimbob/Broccollie-XR/milestone/2?closed=1)
+- [v0.2 GitHub Milestones](https://github.com/hyunwookimbob/Broccollie-XR/milestone/1?closed=1)
 
 <br />
