@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <!-- <img src="" alt="Logo" width="130" height="130"> -->
-  <h1 align="center">Broccollie XR</h1>
+  <h1 align="center">Ready Player Null</h1>
   <p align="center">
     Essential game ready XR features.
     <br />
@@ -18,10 +18,10 @@
 <br />
 
 # About
-**Broccollie XR** is a Untiy package for XR game development.
+**Ready Player Null** is a Untiy package for XR game development.
 
 #### [ Development Environment ]
-- **Unity 2022.2.0f1** URP
+- **Unity 2022.2** URP
 - macOS
 
 #### [ Dependencies ]
@@ -52,6 +52,6 @@
 </table>
 
 ## Changelog
-- [v0.2 GitHub Milestones](https://github.com/hyunwookimbob/Broccollie-XR/milestone/1?closed=1)
+- [v0.2 GitHub Milestones](https://github.com/hyunwookimbob/ReadyPlayerNull/milestone/1?closed=1)
 
 <br />
