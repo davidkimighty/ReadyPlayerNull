@@ -1,7 +1,7 @@
 {
-    "name": "com.colliemollie.broccolliexr",
-    "version": "0.1.1",
-    "displayName": "Broccollie XR",
+    "name": "com.colliemollie.readyplayernull",
+    "version": "0.1.3",
+    "displayName": "Ready Player Null",
     "description": "Essential game ready XR features.",
     "unity": "2021.3",
     "dependencies": {
@@ -11,7 +11,7 @@
         {
             "displayName": "VR Player",
             "description": "Physics based VR Player",
-            "path": "Samples~/Player"
+            "path": "Samples~/VRPlayer"
         }
     ],
     "keywords": [
