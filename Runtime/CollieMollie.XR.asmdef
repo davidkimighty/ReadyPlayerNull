@@ -1,5 +1,5 @@
 {
-    "name": "CollieMollie.VR.Player",
+    "name": "CollieMollie.XR",
     "rootNamespace": "",
     "references": [
         "GUID:fe685ec1767f73d42b749ea8045bfe43"
