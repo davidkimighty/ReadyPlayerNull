@@ -20,15 +20,6 @@
 # About
 **Ready Player Null** is a Untiy package for XR game development.
 
-#### [ Development Environment ]
-- **Unity 2022.2** URP
-- macOS
-
-#### [ Dependencies ]
-- com.unity.addressables: 1.19.19
-- com.unity.inputsystem: 1.4.4
-
-
 ## Available Features
 <table>
 <tr>
@@ -52,6 +43,6 @@
 </table>
 
 ## Changelog
-- [v0.2 GitHub Milestones](https://github.com/hyunwookimbob/ReadyPlayerNull/milestone/1?closed=1)
+- [v0.1 GitHub Milestones](https://github.com/hyunwookimbob/ReadyPlayerNull/milestone/1?closed=1)
 
 <br />
