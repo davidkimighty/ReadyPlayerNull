@@ -1,12 +1,9 @@
 {
-    "name": "com.colliemollie.readyplayernull",
-    "version": "0.2.0",
+    "name": "com.hyunwookimbob.readyplayernull",
+    "version": "0.1.0",
     "displayName": "Ready Player Null",
     "description": "Essential game ready XR features.",
-    "unity": "2021.3",
-    "dependencies": {
-
-    },
+    "unity": "2022.2",
     "samples": [
         {
             "displayName": "VR Player",
