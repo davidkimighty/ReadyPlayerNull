@@ -1107,7 +1107,7 @@ PrefabInstance:
     - target: {fileID: 2545861844530115120, guid: 964784cf12b1a4952931f3d029362b8d,
         type: 3}
       propertyPath: m_Name
-      value: CapsulePlayer
+      value: Capsule Player
       objectReference: {fileID: 0}
     - target: {fileID: 5191557558067178960, guid: 964784cf12b1a4952931f3d029362b8d,
         type: 3}
